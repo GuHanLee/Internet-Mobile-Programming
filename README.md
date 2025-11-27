@@ -1,2 +1,5 @@
 # Internet-Mobile-Programming
-HBE-SM5-S4210
+
+Tetris Apps for CORTEX-A9 with GPIO
+Target board : HBE-SM5-S4210
+Android Version : -
